@@ -1,7 +1,7 @@
 import cv2
 import socket
 
-HOST = '127.0.0.1'
+HOST = '10.1.15.10'
 PORT = 39876
 
 
